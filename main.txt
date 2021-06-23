@@ -1,1 +1,1 @@
-Title: Git for someone
+Title: Git for man
